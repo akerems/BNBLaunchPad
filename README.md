@@ -1,9 +1,8 @@
 # BNBLaunchPad | my patika.dev project on BNB testnet.
 
-## Contract Address: 0xd0d4563d10fb1e591767d007f25fed981c51e0e2
-## it costed around 30$
+### Contract Address: 0xd0d4563d10fb1e591767d007f25fed981c51e0e2
 
-## My test process in Remix VM
+### My test process in Remix VM
 
 - createProject(Patika,1,1):  <br>
   I create a proejct called Patika <br>
