@@ -27,7 +27,7 @@
     3:
     uint256: raisedAmount 1 <br>
     4: 
-    uint256: deadline 1687009155 <br>
+    uint256: deadline 1687011228 <br>
     5:
     bool: isFunded true <br>
     6:
