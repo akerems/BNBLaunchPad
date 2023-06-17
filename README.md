@@ -1,7 +1,7 @@
 # BNBLaunchPad | my patika.dev project on BNB testnet.
 
 ## Contract Address: 0xd0d4563d10fb1e591767d007f25fed981c51e0e2
-## it costed around 30$, where is the problem?
+## it costed around 30$
 
 ## My test process in Remix VM
 
