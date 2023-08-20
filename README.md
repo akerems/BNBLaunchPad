@@ -5,7 +5,7 @@
 ### My test process
 
 - createProject(Patika,1,1):  <br>
-  I create a proejct called Patika <br>
+  I create a project called Patika <br>
   I want to collect 1 BNB in total to fund the project <br>
   The last parameter means I want my funding to end in 1 hours <br>
 
